@@ -21,11 +21,11 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="BRNmod/android_build" groups="pdk,tradefed" >
+  <project path="build" name="BRNmod/android_build" revision="brn-12.1" groups="pdk,tradefed" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="BRNmod/android" />
+  <project path="android" name="BRNmod/android" revision="brn-12.1" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
@@ -438,7 +438,7 @@
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
-  <project path="libcore" name="BRNmod/android_libcore" />
+  <project path="libcore" name="BRNmod/android_libcore" revision="brn-12.1" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" remote="aosp" />
   <project path="packages/apps/AudioFX" name="CyanogenMod/android_packages_apps_AudioFX" />
@@ -589,7 +589,7 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" />
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" remote="aosp" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" />
-  <project path="vendor/brn" name="BRNmod/android_vendor_brn" />
+  <project path="vendor/brn" name="BRNmod/android_vendor_brn" revision="brn-12.1" />
   <project path="vendor/cmsdk" name="CyanogenMod/cm_platform_sdk" />
 
   <!-- frameworks -->
