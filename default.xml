@@ -338,7 +338,7 @@
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" remote="aosp" />
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" groups="pdk" revision="refs/heads/cm-12.1" />
-  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" revision="refs/heads/cm-12.1" />
+  <project path="frameworks/base" name="BRNmod/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" revision="refs/heads/cm-12.1" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" revision="refs/heads/cm-12.1" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" groups="pdk" revision="refs/heads/cm-12.1" />
@@ -477,7 +477,7 @@
   <project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" revision="refs/heads/cm-12.1" />
   <project path="packages/apps/Profiles" name="CyanogenMod/android_packages_apps_Profiles" revision="refs/heads/cm-12.1" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" revision="refs/heads/cm-12.1" />
-  <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" revision="refs/heads/cm-12.1" />
+  <project path="packages/apps/Settings" name="BRNmod/android_packages_apps_Settings" />
   <project path="packages/apps/SetupWizard" name="CyanogenMod/android_packages_apps_SetupWizard" revision="refs/heads/cm-12.1" />
   <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" revision="refs/heads/cm-12.1" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" revision="refs/heads/cm-12.1" />
