@@ -28,7 +28,8 @@
   <project path="android" name="BRNmod/android" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" revision="refs/heads/cm-12.1" />
-  <project path="art" name="CyanogenMod/android_art" groups="pdk" revision="refs/heads/cm-12.1" />
+  <!-- <project path="art" name="CyanogenMod/android_art" groups="pdk" revision="refs/heads/cm-12.1" /> -->
+  <project path="art" name="romracer/android_art" groups="pdk" revision="xposed-lollipop" />
   <project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" revision="refs/heads/cm-12.1" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" revision="refs/heads/cm-12.1" />
   <project path="cts" name="CyanogenMod/android_cts" groups="cts,pdk-cw-fs" revision="refs/heads/cm-12.1" />
@@ -602,6 +603,10 @@
   <project path="external/slf4j" name="microg/android_external_slf4j" remote="github" revision="android-release" /> -->
 
   <project path="frameworks/MapsAPI" name="mar-v-in/MapsAPI" remote="github" revision="master" />
+
+  <project path="frameworks/base/cmds/xposed" name="romracer/Xposed" remote="github" revision="master" />
+  <project path="packages/apps/XposedInstaller" name="BRNmod/XposedInstaller" remote="github" revision="cm-build-art" />
+  <project path="packages/apps/XposedBridge" name="BRNmod/XposedBridge" remote="github" revision="cm-build-art" />
 
   <!-- apps -->
   <!-- <project path="packages/apps/fdroidclient" name="fdroid/fdroidclient.git" remote="gitlab" revision="refs/tags/0.88" /> -->
