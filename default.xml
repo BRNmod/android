@@ -42,6 +42,10 @@
   <project path="device/common" name="CyanogenMod/android_device_common" groups="pdk-cw-fs" revision="refs/heads/cm-12.1" />
   <project path="device/generic/arm64" name="CyanogenMod/android_device_generic_arm64" groups="pdk" revision="refs/heads/cm-12.1" />
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" groups="pdk" revision="refs/heads/cm-12.1" />
+  <project path="device/generic/emulator-arm64" name="BRNmod/android_device_generic_emulator_arm64" />
+  <project path="device/generic/emulator-armv7" name="BRNmod/android_device_generic_emulator_armv7" />
+  <project path="device/generic/emulator-x86" name="BRNmod/android_device_generic_emulator_x86" />
+  <project path="device/generic/emulator-x86_64" name="BRNmod/android_device_generic_emulator_x86_64" />
   <project path="device/generic/common" name="CyanogenMod/android_device_generic_common" groups="pdk" revision="refs/heads/cm-12.1" />
   <project path="device/generic/goldfish" name="CyanogenMod/android_device_generic_goldfish" groups="pdk" revision="refs/heads/cm-12.1" />
   <project path="device/generic/mips" name="CyanogenMod/android_device_generic_mips" groups="pdk" revision="refs/heads/cm-12.1" />
