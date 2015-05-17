@@ -616,6 +616,6 @@
   <project path="packages/apps/XposedBridge" name="BRNmod/XposedBridge" remote="github" revision="cm-build-art" /> -->
 
   <!-- apps -->
-  <project path="packages/apps/fdroidclient" name="fdroid/fdroidclient.git" remote="gitlab" revision="master" />
+  <project path="packages/apps/F-Droid" name="fdroid/fdroidclient.git" remote="gitlab" revision="master" />
   <!-- <project path="packages/apps/F-Droid" name="SWW13/fdroidclient.git" remote="gitlab" revision="cm-build" /> -->
 </manifest>
