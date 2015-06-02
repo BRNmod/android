@@ -311,7 +311,6 @@
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" groups="pdk" revision="refs/heads/cm-12.1" />
   <project path="external/square/dagger" name="CyanogenMod/android_external_square_dagger" revision="refs/heads/cm-12.1" />
   <project path="external/square/javawriter" name="CyanogenMod/android_external_square_javawriter" revision="refs/heads/cm-12.1" />
-  <project path="external/srec" name="platform/external/srec" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/srtp" name="platform/external/srtp" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/stagefright-plugins" name="CyanogenMod/android_external_stagefright-plugins" revision="refs/heads/cm-12.1" />
   <project path="external/stlport" name="platform/external/stlport" groups="pdk" remote="aosp" />
