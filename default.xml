@@ -603,7 +603,7 @@
 
   <!-- frameworks -->
   <!-- <project path="packages/apps/GmsCore" name="microg/android_packages_apps_GmsCore" remote="github" revision="master" /> -->
-  <project path="packages/apps/GmsCore" name="BRNmod/android_packages_apps_GmsCore" remote="github" revision="brn-12.1" />
+  <project path="packages/apps/GmsCore" name="BRNmod/android_packages_apps_GmsCore" remote="github" revision="mk_clean" />
 
   <!-- <project path="frameworks/mapsv1" name="microg/android_frameworks_mapsv1" remote="github" revision="master" /> -->
   <!-- <project path="frameworks/mapsv1" name="BRNmod/android_frameworks_mapsv1" remote="github" revision="master" />
