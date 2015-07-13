@@ -618,4 +618,5 @@
 
   <!-- apps -->
   <project path="packages/apps/F-Droid" name="fdroid/fdroidclient.git" remote="gitlab" revision="master" />
+  <project path="packages/apps/OpenDelta" name="omnirom/android_packages_apps_OpenDelta" remote="github" revision="android-5.1" />
 </manifest>
