@@ -463,7 +463,7 @@
   <!-- <project path="packages/apps/CMHome" name="CyanogenMod/android_packages_apps_CMHome" revision="refs/heads/cm-12.1" /> -->
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" revision="refs/heads/cm-12.1" />
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" revision="refs/heads/cm-12.1" />
-  <project path="packages/apps/ContactsCommon" name="CyanogenMod/android_packages_apps_ContactsCommon" revision="refs/heads/cm-12.1" />
+  <project path="packages/apps/ContactsCommon" name="BRNmod/android_packages_apps_ContactsCommon" />
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" revision="refs/heads/cm-12.1" />
   <project path="packages/apps/Dialer" name="CyanogenMod/android_packages_apps_Dialer" revision="refs/heads/cm-12.1" />
   <project path="packages/apps/Eleven" name="CyanogenMod/android_packages_apps_Eleven" revision="refs/heads/cm-12.1" />
