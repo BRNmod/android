@@ -594,7 +594,7 @@
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" remote="aosp" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" />
   <project path="vendor/brn" name="BRNmod/android_vendor_brn" />
-  <project path="vendor/cmsdk" name="CyanogenMod/cm_platform_sdk" revision="refs/heads/cm-12.1" />
+  <project path="vendor/cmsdk" name="BRNmod/cm_platform_sdk" />
 
   <!-- frameworks -->
   <project path="packages/apps/GmsCore" name="microg/android_packages_apps_GmsCore" remote="github" revision="master" />
